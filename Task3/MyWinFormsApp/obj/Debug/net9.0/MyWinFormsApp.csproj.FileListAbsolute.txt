@@ -1,0 +1,5 @@
+/home/lord/programing/Tasks/Task3/MyWinFormsApp/obj/Debug/net9.0/MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lord/programing/Tasks/Task3/MyWinFormsApp/obj/Debug/net9.0/MyWinFormsApp.AssemblyInfoInputs.cache
+/home/lord/programing/Tasks/Task3/MyWinFormsApp/obj/Debug/net9.0/MyWinFormsApp.AssemblyInfo.cs
+/home/lord/programing/Tasks/Task3/MyWinFormsApp/obj/Debug/net9.0/MyWinFormsApp.csproj.CoreCompileInputs.cache
+/home/lord/programing/Tasks/Task3/MyWinFormsApp/obj/Debug/net9.0/MyWinFormsApp.sourcelink.json

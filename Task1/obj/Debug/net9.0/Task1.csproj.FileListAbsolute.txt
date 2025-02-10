@@ -1,0 +1,15 @@
+/home/lord/programing/Tasks/Task1/bin/Debug/net9.0/Task1
+/home/lord/programing/Tasks/Task1/bin/Debug/net9.0/Task1.deps.json
+/home/lord/programing/Tasks/Task1/bin/Debug/net9.0/Task1.runtimeconfig.json
+/home/lord/programing/Tasks/Task1/bin/Debug/net9.0/Task1.dll
+/home/lord/programing/Tasks/Task1/bin/Debug/net9.0/Task1.pdb
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/Task1.AssemblyInfoInputs.cache
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/Task1.AssemblyInfo.cs
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/Task1.csproj.CoreCompileInputs.cache
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/Task1.sourcelink.json
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/Task1.dll
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/refint/Task1.dll
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/Task1.pdb
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/Task1.genruntimeconfig.cache
+/home/lord/programing/Tasks/Task1/obj/Debug/net9.0/ref/Task1.dll

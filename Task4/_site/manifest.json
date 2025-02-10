@@ -1,0 +1,102 @@
+{
+  "source_base_path": "D:/programing/cs/Tasks/Task4",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Task4.Models.Category.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Task4.Models.Category.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Task4.Models.IInventoryService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Task4.Models.IInventoryService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Task4.Models.Product.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Task4.Models.Product.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Task4.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Task4.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Task4.Serivices.InventoryService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Task4.Serivices.InventoryService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Task4.Serivices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Task4.Serivices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

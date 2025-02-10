@@ -1,0 +1,37 @@
+{
+  "api/Task4.Models.Category.html": {
+    "href": "api/Task4.Models.Category.html",
+    "title": "Enum Category",
+    "keywords": "Enum Category Перелічуваний тип даних для категорій товарів. Namespace: Task4.Models Assembly: Inventory.dll Syntax public enum Category Fields Name Description Clothing Одяг Electronics Електроніка Food Продукти харчування HomeAppliance Домашнє обладнання"
+  },
+  "api/Task4.Models.IInventoryService.html": {
+    "href": "api/Task4.Models.IInventoryService.html",
+    "title": "Interface IInventoryService",
+    "keywords": "Interface IInventoryService Інтерфейс для обробки товарів на складі. Namespace: Task4.Models Assembly: Inventory.dll Syntax public interface IInventoryService Methods | Edit this page View Source AddProduct(Product) Додає новий товар на склад. Declaration void AddProduct(Product product) Parameters Type Name Description Product product Товар для додавання. | Edit this page View Source DeleteProduct(int) Видаляє товар зі складу. Declaration void DeleteProduct(int id) Parameters Type Name Description int id Ідентифікатор товару для видалення. | Edit this page View Source UpdateProduct(Product) Оновлює інформацію про товар. Declaration void UpdateProduct(Product product) Parameters Type Name Description Product product Оновлений товар."
+  },
+  "api/Task4.Models.Product.html": {
+    "href": "api/Task4.Models.Product.html",
+    "title": "Class Product",
+    "keywords": "Class Product Клас, що представляє товар на складі. Inheritance object Product Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Namespace: Task4.Models Assembly: Inventory.dll Syntax public class Product Constructors | Edit this page View Source Product(int, string, string, Category, int) Конструктор класу Product. Declaration public Product(int id, string name, string description, Category category, int quantity) Parameters Type Name Description int id Ідентифікатор товару. string name Назва товару. string description Опис товару. Category category Категорія товару. int quantity Кількість товару. Properties | Edit this page View Source Category Категорія товару. Declaration public Category Category { get; set; } Property Value Type Description Category | Edit this page View Source Description Опис товару. Declaration public string Description { get; set; } Property Value Type Description string | Edit this page View Source Id Унікальний ідентифікатор товару. Declaration public int Id { get; set; } Property Value Type Description int | Edit this page View Source Name Назва товару. Declaration public string Name { get; set; } Property Value Type Description string | Edit this page View Source Quantity Кількість товару на складі. Declaration public int Quantity { get; set; } Property Value Type Description int"
+  },
+  "api/Task4.Models.html": {
+    "href": "api/Task4.Models.html",
+    "title": "Namespace Task4.Models",
+    "keywords": "Namespace Task4.Models Classes Product Клас, що представляє товар на складі. Interfaces IInventoryService Інтерфейс для обробки товарів на складі. Enums Category Перелічуваний тип даних для категорій товарів."
+  },
+  "api/Task4.Serivices.InventoryService.html": {
+    "href": "api/Task4.Serivices.InventoryService.html",
+    "title": "Class InventoryService",
+    "keywords": "Class InventoryService Реалізація інтерфейсу IInventoryService для обробки товарів на складі. Inheritance object InventoryService Implements IInventoryService Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Namespace: Task4.Serivices Assembly: Inventory.dll Syntax public class InventoryService : IInventoryService Methods | Edit this page View Source AddProduct(Product) Додає новий товар на склад. Declaration public void AddProduct(Product product) Parameters Type Name Description Product product Товар для додавання. | Edit this page View Source DeleteProduct(int) Видаляє товар зі складу. Declaration public void DeleteProduct(int id) Parameters Type Name Description int id Ідентифікатор товару для видалення. | Edit this page View Source UpdateProduct(Product) Оновлює інформацію про товар. Declaration public void UpdateProduct(Product product) Parameters Type Name Description Product product Оновлений товар. Implements IInventoryService"
+  },
+  "api/Task4.Serivices.html": {
+    "href": "api/Task4.Serivices.html",
+    "title": "Namespace Task4.Serivices",
+    "keywords": "Namespace Task4.Serivices Classes InventoryService Реалізація інтерфейсу IInventoryService для обробки товарів на складі."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE.",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
